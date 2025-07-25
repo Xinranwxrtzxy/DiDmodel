@@ -1,4 +1,4 @@
-# DiDmodel
+# Difference-in-Difference (DiD) Model for 3-Wave Survey Data - Including Treatment and Control Group
 
 Welcome to my R script for running a Difference-in-Differences (DiD) analysis on 3-waves survey data, with experimental survey design! I upload the script showing the general procedure in case anyone is also struggling with analyzing treatment effect under similar survey research design:
 
